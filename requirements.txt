@@ -1,4 +1,7 @@
+keras
 streamlit
-tensorflow
+streamlit-webrtc
 numpy
+opencv-python-headless
 Pillow
+tensorflow==2.20.0
